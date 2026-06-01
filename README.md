@@ -1,47 +1,61 @@
 <h1 align="center">Lucas Luz</h1>
 
 <p align="center">
-  <img src="./paint.png" alt="banner" width="100%" />
+  <img src="./paint.png" alt="Lucas Luz banner" width="100%" />
 </p>
 
 <p align="center">
-  Backend developer, project director, and lifelong optimizer of systems, workflows, and bad ideas.
+  Software Engineering Student • Project Director • Frontend Developer
+</p>
+
+<p align="center">
+  I build interfaces, automate workflows, and enjoy making complex things simpler.
 </p>
 
 ---
 
-## Know About Me
+## About Me
 
-Hey, I’m Lucas — a Software Engineering student who spends way too much time building backend systems, automating repetitive tasks, and tweaking my setup until it feels just right.
-
-I work with TypeScript, SQL, PostgreSQL/MySQL, and ServiceNow, mostly around backend development, workflows, and system improvements. I like clean architecture, practical solutions, and tools that actually save time.
-
-When I’m not coding, I’m usually into fitness, music, or messing around with Windows customization and productivity tools.
+- 🎓 Software Engineering student
+- 💼 Project Director and frontend developer
+- 🎨 Focused on building clean, functional, and responsive interfaces
+- 🔧 Also working to sharpen my backend skills with **TypeScript**, **PostgreSQL**, and **MySQL**
+- ⚙️ Experienced with **ServiceNow** workflows and platform governance
+- 🪟 Big fan of Windows tweaking, PowerShell, and productivity tools
+- 🏋️‍♂️ Outside tech: fitness, music, and staying updated on current events
 
 ---
 
 ## What I Build
 
-- APIs and backend services
-- Databases and data-driven systems
-- ServiceNow solutions and workflows
-- Automation scripts
-- Custom productivity setups
+- Responsive and accessible frontend interfaces
+- Component-driven UIs with clean architecture
+- Database-driven applications
+- ServiceNow workflows and platform solutions
+- Automation scripts and productivity tools
 
 ---
 
-## What I’m Focused On
+## Currently Improving
 
-- Becoming stronger in backend architecture
-- Improving leadership and project direction
-- Deepening my ServiceNow knowledge
-- Sharpening my TypeScript and SQL skills
-- Making my workflow more efficient
+- Frontend architecture and design systems
+- TypeScript for backend development
+- ServiceNow advanced features
+- Database design and SQL optimization
+- Leadership and project management
 
 ---
 
-## Find Me Here
+## Connect With Me
 
-- GitHub
-- LinkedIn
-- Email
+<p align="center">
+  <a href="mailto:lucaspmluz@hotmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/lucas-luz-1b0258324/">LinkedIn</a> •
+  <a href="https://portifolio-mu-one-80.vercel.app/">Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"I like building things that are useful, efficient, and actually make life easier."</i>
+</p>
