@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Luz</h1>
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
+  <img src="./paint.png" alt="banner" width="100%" />
 </p>
 
 <p align="center">
