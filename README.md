@@ -21,7 +21,6 @@
 - 🎨 Focused on building clean, functional, and responsive interfaces
 - 🔧 Also working to sharpen my backend skills with **TypeScript**, **PostgreSQL**, and **MySQL**
 - ⚙️ Experienced with **ServiceNow** workflows and platform governance
-- 🪟 Big fan of Windows tweaking, PowerShell, and productivity tools
 - 🏋️‍♂️ Outside tech: fitness, music, and staying updated on current events
 
 ---
