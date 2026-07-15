@@ -8,7 +8,7 @@ lucas@luz:~$ whoami
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │  LUCAS LUZ                                                     │
-│  Software Engineering Student · Project Director · Frontend Dev │
+│  Software Engineering Student · Project Director · Frontend Dev│
 ├────────────────────────────────────────────────────────────────┤
 │  > I build interfaces, automate workflows,                     │
 │    and enjoy making complex things simpler.                    │
