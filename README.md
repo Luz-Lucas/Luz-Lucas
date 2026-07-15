@@ -25,19 +25,6 @@ focus     : clean, functional and responsive interfaces
 learning  : TypeScript (backend), PostgreSQL, MySQL
 platform  : ServiceNow workflows & governance
 offline   : fitness · music · current events
-```
-
-```console
-lucas@luz:~$ ls -1 ~/builds/
-```
-```
-drwxr-xr-x  responsive-accessible-frontends/
-drwxr-xr-x  component-driven-uis/
-drwxr-xr-x  database-driven-apps/
-drwxr-xr-x  servicenow-workflows/
-drwxr-xr-x  automation-scripts/
-```
-
 ```console
 lucas@luz:~$ cat stack.json
 ```
