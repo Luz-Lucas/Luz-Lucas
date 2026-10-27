@@ -1,72 +1,21 @@
-<p align="center">
-  <img src="./paint.png" alt="Lucas Luz banner" width="100%" />
-</p>
+<a href="https://www.lucasluz.dev/">
+  <img src="./assets/desk.png" alt="Escrivaninha à noite com um PC bege e monitor CRT — o portfólio 3D de Lucas Luz" width="100%" />
+</a>
 
-```console
-lucas@luz:~$ whoami
-```
-```
-┌────────────────────────────────────────────────────────────────┐
-│  LUCAS LUZ                                                     │
-│  Software Engineering Student · Project Director · Frontend Dev│
-├────────────────────────────────────────────────────────────────┤
-│  > I build interfaces, automate workflows,                     │
-│    and enjoy making complex things simpler.                    │
-└────────────────────────────────────────────────────────────────┘
-```
+<img src="./assets/bios.svg" alt="Luz BIOS v4.00PG — Detectando: Front-end, React, TypeScript, Café quente. Iniciando Luz 95..." width="100%" />
 
-```console
-lucas@luz:~$ cat about.txt
-```
-```
-role      : Project Director @ frontend development
-studying  : Software Engineering
-focus     : clean, functional and responsive interfaces
-learning  : TypeScript (backend), PostgreSQL, MySQL
-platform  : ServiceNow workflows & governance
-offline   : fitness · music · current events
-```console
-lucas@luz:~$ cat stack.json
-```
-```json
-{
-  "frontend": ["React", "TypeScript", "HTML", "CSS"],
-  "backend":  ["TypeScript", "Node"],
-  "data":     ["PostgreSQL", "MySQL"],
-  "platform": ["ServiceNow"],
-  "tools":    ["Git", "Vercel"]
-}
-```
+<img src="./assets/desktop.svg" alt="Área de trabalho Luz 95 com o Leia-me.txt aberto: Lucas Luz, estudante de Engenharia de Software e desenvolvedor front-end em Minas Gerais. Desenvolvedor Júnior na CP2 Junior Company, foco em React, TypeScript e interfaces responsivas." width="100%" />
 
-```console
-lucas@luz:~$ ./progress.sh
-```
-```
-frontend architecture & design systems   [██████████░░░░░░░░░░]  50%
-typescript for backend                   [████████░░░░░░░░░░░░]  40%
-servicenow advanced features             [██████████████░░░░░░]  70%
-database design & sql optimization       [████████████░░░░░░░░]  60%
-leadership & project management          [████████████████░░░░]  80%
-```
+<img src="./assets/skills.svg" alt="Skills — Front-end: React, TypeScript, JavaScript, HTML e CSS. Interface e design: Tailwind CSS, design responsivo, Figma. Back-end: Node.js, APIs REST, bancos de dados. Qualidade: testes automatizados, performance e acessibilidade, Git." width="100%" />
 
-```console
-lucas@luz:~$ cat contact.cfg
-```
-```ini
-email     = lucaspmluz@hotmail.com
-linkedin  = /in/lucas-luz-1b0258324
-portfolio = portifolio-mu-one-80.vercel.app
-```
+<img src="./assets/experience.svg" alt="Experiência — Desenvolvedor Júnior e Gestão de Pessoas e Recursos na CP2 Junior Company (2024–hoje), Desenvolvedor Full Stack freelancer (2023–hoje), Engenharia de Software (2023–hoje)." width="100%" />
+
+<p align="center"><a href="https://www.lucasluz.dev/"><img src="./assets/link-site.svg" alt="Portfólio: lucasluz.dev" width="120" /></a><a href="https://www.linkedin.com/in/lucas-luz-0b0368432/"><img src="./assets/link-linkedin.svg" alt="LinkedIn" width="120" /></a><a href="mailto:contato.lucaspmluz@gmail.com"><img src="./assets/link-email.svg" alt="E-mail: contato.lucaspmluz@gmail.com" width="120" /></a><a href="https://www.lucasluz.dev/"><img src="./assets/link-cv.svg" alt="Currículo" width="120" /></a><a href="https://github.com/Luz-Lucas?tab=repositories"><img src="./assets/link-projects.svg" alt="Projetos" width="120" /></a></p>
 
 <p align="center">
-  <a href="mailto:lucaspmluz@hotmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/lucas-luz-1b0258324/">LinkedIn</a> •
-  <a href="https://portifolio-mu-one-80.vercel.app/">Portfolio</a>
+  <a href="https://www.lucasluz.dev/">lucasluz.dev</a> ·
+  <a href="mailto:contato.lucaspmluz@gmail.com">contato.lucaspmluz@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/lucas-luz-0b0368432/">LinkedIn</a>
 </p>
 
-```console
-lucas@luz:~$ echo $MOTTO
-"I like building things that are useful, efficient, and actually make life easier."
-
-lucas@luz:~$ _
-```
+<img src="./assets/shutdown.svg" alt="Agora é seguro desligar o computador... ou ligar de novo em lucasluz.dev" width="100%" />
